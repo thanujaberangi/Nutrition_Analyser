@@ -1,0 +1,20 @@
+{
+    "dietaryRequirements": [
+      "vegetarian",
+      "vegan",
+      "low-carb",
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "nut-free",
+      "soy-free"
+    ],
+    "fitnessGoals": [
+      "muscle-building",
+      "weight-loss",
+      "endurance",
+      "strength-training",
+      "flexibility",
+      "cardiovascular-health"
+    ]
+  }

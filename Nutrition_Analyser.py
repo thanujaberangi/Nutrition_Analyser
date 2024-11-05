@@ -32,7 +32,7 @@ def preprocess_image(image):
 
 # Streamlit app
 def main():
-    st.title("Nutrion Analyser")
+    st.title("Nutrition Analyser")
     st.text("Upload an image of a fruit to classify it.")
 
     # File uploader

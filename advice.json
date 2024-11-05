@@ -1,0 +1,142 @@
+{
+    "recommendations": [
+        {
+            "fitness_goal": "Improved Flexibility",
+            "body_composition": "Lean",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Incorporate regular stretching and yoga to improve flexibility. Include foods rich in vitamins and minerals to support muscle health."
+        },
+        {
+            "fitness_goal": "Improved Flexibility",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Incorporate regular stretching and yoga to improve flexibility. Include foods rich in vitamins and minerals to support muscle health."
+        },
+        {
+            "fitness_goal": "Improved Flexibility",
+            "body_composition": "Lean",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Incorporate regular stretching and yoga to improve flexibility. Include foods rich in vitamins and minerals to support muscle health."
+        },
+        {
+            "fitness_goal": "Improved Flexibility",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Incorporate dynamic stretching and yoga to improve flexibility. Include a variety of plant-based protein sources like beans, lentils, and tofu for muscle recovery."
+        },
+        {
+            "fitness_goal": "Mental Clarity and Focus",
+            "body_composition": "Lean",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Include foods rich in omega-3 fatty acids and antioxidants to support brain health. Practice mindfulness and stress-reducing activities for mental clarity."
+        },
+        {
+            "fitness_goal": "Mental Clarity and Focus",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Include foods rich in omega-3 fatty acids and antioxidants to support brain health. Practice mindfulness and stress-reducing activities for mental clarity."
+        },
+        {
+            "fitness_goal": "Mental Clarity and Focus",
+            "body_composition": "Lean",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Include foods rich in antioxidants, like berries and leafy greens, to support brain health. Practice mindfulness and stress-reducing activities for mental clarity."
+        },
+        {
+            "fitness_goal": "Mental Clarity and Focus",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Include foods rich in antioxidants, like berries and leafy greens, to support brain health. Practice mindfulness and stress-reducing activities for mental clarity."
+        },
+        {
+            "fitness_goal": "Improved Sleep Quality",
+            "body_composition": "Lean",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Avoid heavy meals close to bedtime. Include foods rich in tryptophan, such as nuts, seeds, and dairy, to promote better sleep. Establish a regular sleep schedule."
+        },
+        {
+            "fitness_goal": "Improved Sleep Quality",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Avoid heavy meals close to bedtime. Include foods rich in tryptophan, such as nuts, seeds, and dairy, to promote better sleep. Establish a regular sleep schedule."
+        },
+        {
+            "fitness_goal": "Immune System Support",
+            "body_composition": "Lean",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Include foods rich in vitamins and minerals, such as fruits, vegetables, and lean proteins, to support immune function. Stay hydrated and get adequate rest."
+        },
+        {
+            "fitness_goal": "Immune System Support",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Include foods rich in vitamins and minerals, such as fruits, vegetables, and lean proteins, to support immune function. Stay hydrated and get adequate rest."
+        },
+        {
+            "fitness_goal": "Immune System Support",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Include foods rich in vitamins and minerals, such as fruits, vegetables, and lean proteins, to support immune function. Stay hydrated and get adequate rest."
+        },
+        {
+            "fitness_goal": "Immune System Support",
+            "body_composition": "Lean",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Include foods rich in vitamins and minerals, such as fruits, vegetables, and plant-based proteins like legumes and tofu, to support immune function. Stay hydrated and get adequate rest."
+        },
+        {
+            "fitness_goal": "Improved Digestive Health",
+            "body_composition": "Lean",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Include fiber-rich foods like fruits, vegetables, and whole grains to support digestive health. Stay hydrated and incorporate probiotic-rich foods like yogurt."
+        },
+        {
+            "fitness_goal": "Improved Digestive Health",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Include fiber-rich foods like fruits, vegetables, and whole grains to support digestive health. Stay hydrated and incorporate probiotic-rich foods like yogurt."
+        },
+        {
+            "fitness_goal": "Improved Digestive Health",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Include fiber-rich foods like fruits, vegetables, and whole grains to support digestive health. Stay hydrated and incorporate probiotic-rich foods like yogurt."
+        },
+        {
+            "fitness_goal": "Improved Digestive Health",
+            "body_composition": "Lean",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Include fiber-rich foods like fruits, vegetables, and whole grains to support digestive health. Stay hydrated and incorporate probiotic-rich foods like yogurt."
+        },
+        {
+            "fitness_goal": "General Wellness and Longevity",
+            "body_composition": "Lean",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Maintain a balanced diet with a variety of nutrients. Incorporate regular physical activity, manage stress, and get adequate sleep for overall well-being."
+        },
+        {
+            "fitness_goal": "General Wellness and Longevity",
+            "body_composition": "Lean",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Maintain a balanced diet with a variety of nutrients. Incorporate regular physical activity, manage stress, and get adequate sleep for overall well-being."
+        },
+        {
+            "fitness_goal": "General Wellness and Longevity",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Maintain a balanced diet with a variety of nutrients. Incorporate regular physical activity, manage stress, and get adequate sleep for overall well-being."
+        },
+        {
+            "fitness_goal": "General Wellness and Longevity",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Vegetarian",
+            "advice": "Include fiber-rich foods like fruits, vegetables, and whole grains to support digestive health. Stay hydrated and incorporate probiotic-rich foods like yogurt."
+        },
+        {
+            "fitness_goal": "Improved Sleep Quality",
+            "body_composition": "Muscular",
+            "dietary_preferences": "Non-Vegetarian",
+            "advice": "Avoid heavy meals close to bedtime. Include foods rich in tryptophan, such as nuts, seeds, and dairy, to promote better sleep. Establish a regular sleep schedule."
+        }
+    ]
+}
